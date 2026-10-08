@@ -85,7 +85,7 @@ An AI-powered resume platform designed to help users create and optimize resumes
 - Resume creation using customizable templates
 - Job Description analysis and keyword extraction
 - AI-powered resume optimization
-- ATS score evaluation
+- ATS score evaluation.
 - AI-generated cover letters
 - Resume preview and PDF generation
 - Free and premium resume functionality
