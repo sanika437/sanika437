@@ -5,13 +5,13 @@ Computer Science Engineering Student | Full-Stack Developer | MERN Stack | Java 
 </h3>
 
 <p align="center">
-  <a href="linkedin.com/in/sanika-mane-37a043320">
+  <a href="https://www.linkedin.com/in/sanika-mane-37a043320/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://drive.google.com/file/d/1Q4t1uiP9UTaifMObmCvSiDCRw1VEJMSr/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-View-red?style=for-the-badge&logo=readthedocs" />
   </a>
-  <a href="sanikamane141@gmail.com">
+  <a href="mailto:sanikamane141@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" />
   </a>
 </p>
@@ -185,10 +185,10 @@ I enjoy solving problems, learning new technologies, and turning ideas into func
 ## 🤝 Let's Connect
 
 <p>
-  <a href="linkedin.com/in/sanika-mane-37a043320">
+  <a href="https://www.linkedin.com/in/sanika-mane-37a043320/">
     <img src="https://img.shields.io/badge/LinkedIn-Sanika%20Mane-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="sanikamane141@gmail.com">
+  <a href="mailto:sanikamane141@gmail.com">
     <img src="https://img.shields.io/badge/Email-Sanika%20Mane-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
